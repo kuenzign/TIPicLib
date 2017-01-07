@@ -2,9 +2,11 @@
 
 A library to open and save Texas Instrument calculator picture files.
 
-## Built With
+## Built Using
 
 * [.NET Framework 4.6.2](https://www.microsoft.com/en-us/download/details.aspx?id=53344)
+* [Visual Studio 2015](https://www.visualstudio.com/vs/)
+* [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager)
 
 ## Authors
 

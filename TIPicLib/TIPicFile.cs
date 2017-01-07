@@ -1,4 +1,13 @@
-﻿using System;
+﻿////////////////////////////////////////////////////////////////////////////////////////////////////////
+//FileName: TIPicFile.cs
+//Company : Barf-a-Cat Studios
+//Created On : 1/6/2017 at 7:34 PM
+//Last Modified On : 1/7/2017 at 5:37 PM
+//Project : TIPicLib
+//Description : 
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Drawing;
@@ -10,7 +19,7 @@ namespace TIPicLib
 {
     public sealed class TIPicFile
     {
-        enum TICalcType { TI73, TI82, TI83, TI83F, TI85, TI86, TI89, TI92, TI92P}
+        enum TICalcType { TI73, TI82, TI83, TI83F, TI85, TI86, TI89, TI92, TI92P }
 
         public class TIPictureFormat
         {
